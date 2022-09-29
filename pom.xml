@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.83.201.147:8081/repository/uba_uat-pipeline/</url>
+	      <url>http://54.227.126.218:4000/repository/ebay-repo//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
